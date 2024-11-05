@@ -1,1 +1,1 @@
-# Customer_Segmentation_Project
+# CUSTOMER_SEGMENTATION_PROJECT
