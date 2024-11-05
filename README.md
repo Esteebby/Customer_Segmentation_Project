@@ -104,10 +104,33 @@ Once the data is cleaned and prepared, the next step is to conduct a thorough da
       Select SubscriptionType, Count(CustomerID) as Total_customers from CustomerSEGtable
       Group by SubscriptionType
       Order by Total_customers DESC
-     
+
+
+      
+![SQL 2](https://github.com/user-attachments/assets/bb2c333f-d742-443b-9763-48a7ae79367c) 
+
+
+## Data Visulization 
+
+Data Visualizations helps to quickly identify patterns, spot trends, and convey actionable insights to stakeholders in a clear and engaging way. Here are several effective types of visualizations and techniques you can use to analyze and communicate your customer segmentation data; 
+
+  - A line chart could show the retention rate of customers who signed up in different months (e.g., customers who joined in January vs. March) over a 12-month period.
+
+  - Pie chart: Show the breakdown of customers based on subscription plan (e.g., Basic, Premium, Free Trial).
+
+  - Bar chart: Visualize the number of customers in different segments.
 
 
 
-  
+![Customer Segmentation PowerBI](https://github.com/user-attachments/assets/b435b1b7-7f82-4d9b-8145-06001fff5358) 
 
+
+
+Effective data visualizations empower to make data-driven decisions, communicate findings clearly, and improve customer segmentation strategies. 
+
+
+
+|Name:|Idemudia|Esther|
+|-----|--------|------|
+|TechSkill:|Data|Analysis| 
 
