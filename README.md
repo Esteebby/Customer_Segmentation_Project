@@ -55,7 +55,7 @@ Data cleaning and preparation are critical steps in ensuring that the data used 
 ## Data Analysis 
 
 Once the data is cleaned and prepared, the next step is to conduct a thorough data analysis to identify patterns and insights that can drive the customer segmentation process. The goal of this phase is to explore customer behaviors, preferences, and attributes. Here are some key steps involving in data analysis process for customer segmentation.
-    1. Descriptive Statistics: Calculate and analyze key summary statistics for each variable, such as:
+1. Descriptive Statistics: Calculate and analyze key summary statistics for each variable, such as:
 
      - Region by Total Revenue
 
@@ -94,8 +94,17 @@ Once the data is cleaned and prepared, the next step is to conduct a thorough da
      - Region by Revenue 
 
 
-![Bar chart 2 2](https://github.com/user-attachments/assets/549cd6fc-cc79-48fe-a748-ba24467e5e50)
+![Bar chart 2 2](https://github.com/user-attachments/assets/549cd6fc-cc79-48fe-a748-ba24467e5e50) 
 
+
+2. Customer Performance: In this context, understanding how each customer or customer segment contributes to the service’s growth, revenue, and sustainability in;
+    - finding the most popular Subscription Type by the number of Customers.
+
+      ```SQL
+      Select SubscriptionType, Count(CustomerID) as Total_customers from CustomerSEGtable
+      Group by SubscriptionType
+      Order by Total_customers DESC
+     
 
 
 
