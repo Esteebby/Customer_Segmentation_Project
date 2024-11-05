@@ -32,16 +32,17 @@ The primary source of this data is gotten from an online tutorials such as Linke
    3. For creating Summarization using Pivot Tables
    4. For Data Visualization.
 
-- SQL-Structured Query Language [Downlaod Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+ - SQL-Structured Query Language [Downlaod Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
     It is used for Data Query such as;
-    Finding the most Popular Subscription Type by the number of Custommers, Calculating Total Revenue by Subacription Type, Finding the Top 3 Regions by Subscription Cancellations.
+    Finding the most Popular Subscription Type by the number of Custommers, Calculating Total Revenue by Subacription Type, Finding the Top 3 Regions by Subscription 
+Cancellations.
 
-- Power BI Desktop [Download Here](https://powerbi.microsoft.com/desktop/)
+ - Power BI Desktop [Download Here](https://powerbi.microsoft.com/desktop/)
 
     It is used to Create a Dashboard that Visualizes the insights found in both EXCEL, SQL and BI Reports.
 
-- GitHub [Download Here](https://github.com)
+ - GitHub [Download Here](https://github.com)
 
     It is used for Porfolio Building.
 
@@ -56,13 +57,46 @@ Data cleaning and preparation are critical steps in ensuring that the data used 
 Once the data is cleaned and prepared, the next step is to conduct a thorough data analysis to identify patterns and insights that can drive the customer segmentation process. The goal of this phase is to explore customer behaviors, preferences, and attributes. Here are some key steps involving in data analysis process for customer segmentation.
     1. Descriptive Statistics: Calculate and analyze key summary statistics for each variable, such as:
 
-     - Region by Total Revenue 
+     - Region by Total Revenue
+
+![Pie Chart 2 1](https://github.com/user-attachments/assets/edd8e0d6-9bf0-49c5-bf8c-6926cd843a0f)
+
+     
+     
      - Subscription Type by CustomerID 
+
+     
+![Pie Chart 2 2](https://github.com/user-attachments/assets/0c6addd0-b082-4c8f-a257-e9c178f16222)
+
+     
      - Subscription Type by Revenue 
-     - Subscription Type by SUB Duration 
+
+
+![Bar Chart 2 1](https://github.com/user-attachments/assets/0620db62-d370-4cf3-a19a-05e4fb07a532)
+
+     - Subscription Type by SUB Duration
+
+
+
+![Pie chart 2 3](https://github.com/user-attachments/assets/dc37b965-0154-4995-affa-f1418b1db6f7)
+
      - Region by CustomerID
+
+
+![Bar chart 2 3](https://github.com/user-attachments/assets/a662538f-bf8f-43d9-a5d6-791848840fb2)
+
+     
      - Region by SUB Duration 
+
+
+![Pie chart 2 4](https://github.com/user-attachments/assets/1dae2592-6c27-4da1-a41d-6070cca12a2a)
+
      - Region by Revenue 
+
+
+![Bar chart 2 2](https://github.com/user-attachments/assets/549cd6fc-cc79-48fe-a748-ba24467e5e50)
+
+
 
 
   
