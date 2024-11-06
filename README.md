@@ -101,13 +101,11 @@ Once the data is cleaned and prepared, the next step is to conduct a thorough da
     - finding the most popular Subscription Type by the number of Customers.
 
       ```SQL
-      Select SubscriptionType, Count(CustomerID) as Total_customers from CustomerSEGtable
-      Group by SubscriptionType
-      Order by Total_customers DESC
+      Select * from Customer SEG Table
 
 
       
-![SQL 2](https://github.com/user-attachments/assets/bb2c333f-d742-443b-9763-48a7ae79367c) 
+
 
 
 ## Data Visulization 
