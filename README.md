@@ -101,7 +101,10 @@ Once the data is cleaned and prepared, the next step is to conduct a thorough da
      - Region by Revenue 
 
 
-![Bar chart 2 2](https://github.com/user-attachments/assets/549cd6fc-cc79-48fe-a748-ba24467e5e50) 
+![Bar chart 2 2](https://github.com/user-attachments/assets/549cd6fc-cc79-48fe-a748-ba24467e5e50)   
+
+
+---
 
 
 
@@ -198,7 +201,10 @@ Once the data is cleaned and prepared, the next step is to conduct a thorough da
 
 
 
-![Cus 10](https://github.com/user-attachments/assets/6f5d45d2-fc3b-4af0-94ca-54b14c0c3f05)
+![Cus 10](https://github.com/user-attachments/assets/6f5d45d2-fc3b-4af0-94ca-54b14c0c3f05)  
+
+
+---
 
 
 
